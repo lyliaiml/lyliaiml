@@ -4,73 +4,76 @@
 
 Bienvenue sur mon profil GitHub !
 
-Actuellement étudiante en troisième année de licence MIAGE à l'Université Paris Dauphine-PSL, je m'intéresse particulièrement à l'informatique, aux systèmes d'information et à l'analyse de données.
+Étudiante en troisième année de licence MIAGE à l'Université Paris Dauphine-PSL, je m'intéresse particulièrement à l'informatique, aux systèmes d'information et à l'analyse de données.
 
-À travers mon parcours universitaire et mes projets, je développe progressivement mes compétences en programmation, en conception de bases de données et en analyse informatique.
+Mon parcours universitaire me permet d'acquérir des compétences variées en programmation, algorithmique, conception de bases de données et traitement de données.
 
-Curieuse, sérieuse et autonome, j'aime apprendre, explorer de nouvelles technologies et relever des défis.
+Curieuse, rigoureuse et autonome, j'apprécie l'apprentissage continu, la résolution de problèmes et la réalisation de projets concrets.
 
- **Objectif :** trouver un stage de 3 mois dans le domaine de la data à partir de fin mai 2027.
+**Objectif professionnel :** recherche d'un stage de 3 mois dans le domaine de la data à partir de fin mai 2027.
 
 ---
 
-##  Formation
+## Formation
 
 - **2026 – 2027 :** Licence 3 MIAGE – Université Paris Dauphine-PSL
-- **2024 – 2026 :** 1 ère et 2 eme année Licence Informatique – Université de Limoges
+- **2024 – 2026 :** Licence 1 et 2 Informatique – Université de Limoges
 
 ---
 
-##  Compétences techniques
+## Compétences techniques
 
-### Langages
+### Langages de programmation et développement
 - Java
 - Python
-- SQL
 - C
-- HTML, CSS, JavaScript
+- SQL
+- HTML, CSS et JavaScript
 
-
-### Outils
-- Git
+### Outils 
+- Git et GitHub
 - IntelliJ IDEA
 - Visual Studio Code
 - LibreOffice
 
-### Informatique
+### Domaines informatiques
 - Programmation orientée objet
 - Algorithmique et structures de données
 - Bases de données relationnelles
-- Analyse de données
+- Analyse et traitement de données
 
 ---
 
-##  Mes projets
+## Projets
 
-Vous trouverez ici mes différents projets universitaires et personnels, notamment autour de :
+Vous trouverez ici mes différents projets universitaires et personnels, illustrant mon parcours et mes compétences en informatique.
 
-- La programmation et le développement logiciel
-- La conception et la gestion de bases de données
-- L'algorithmique
-- L'analyse et le traitement de données
+Mes principaux domaines de travail :
 
----
-
-##  Langues
-
-- Français : C2
-- Anglais : B2
-- Arabe : C2
-- Kabyle : langue native
-- Espagnol : notions
+- Développement logiciel et programmation
+- Conception et gestion de bases de données
+- Algorithmique et résolution de problèmes
+- Analyse et traitement de données
 
 ---
 
-##  Me contacter
-Je suis ouverte aux opportunités de stage en informatique. N'hésitez pas à me contacter.
+## Langues
+
+- **Français :** C2
+- **Anglais :** B2
+- **Arabe :** C2
+- **Kabyle :** langue maternelle
+- **Espagnol :** notions
+
+---
+
+## Me contacter
+
+Je suis ouverte aux opportunités de stage dans le domaine de l'informatique et de la data.
+
 - **LinkedIn :** [Mon profil LinkedIn](https://www.linkedin.com/in/lylia-imloul-89b406436)
 - **GitHub :** [@lyliaiml](https://github.com/lyliaiml)
 
 ---
 
-*Merci de visiter mon profil !*
+*Merci de votre visite !*
